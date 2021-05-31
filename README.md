@@ -43,4 +43,4 @@
 
 ##
 
-![Snake animation](https://github.com/BeKowalsky/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BeKowalsky/BeKowalsky/blob/output/github-contribution-grid-snake.svg)
