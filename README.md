@@ -1,4 +1,4 @@
- ## Hello, World! My name is Bernardo Magueta Kowalsky <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+ ## Hello, World! My name is Bernardo Magueta Kowalsky <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><img src="https://media.tenor.com/images/9d8210d2094d9eea0010ca67d0cfbe62/tenor.gif" width="30px">
  
  <p align="center">
   <a href="https://github.com/BeKowalsky">
@@ -8,15 +8,15 @@
  
  ## About me:
  ### Abstract
- - 👨🏻‍💻 Computer Science student, first period.
- - 🇧🇷 Brazilian student.
- - 🖥 Front-end developer, formed by Alura.
- - 🎮 Future game developer.
+ - <img src="https://media.tenor.com/images/c288a717b358c17126501813dbfbd6b8/tenor.gif" width="30px"> Computer Science student, first period.
+ - <img src="https://media.tenor.com/images/5cea43f6f9398dd4df2ac7147b231909/tenor.gif" width="30px"> Brazilian student.
+ - <img src="https://media.tenor.com/images/a4235f990fad6992575db4e6ea4b5571/tenor.gif" width="30px"> Front-end developer, formed by Alura.
+ - <img src="https://media.tenor.com/images/6859997a55fc20d294a11bc83feb4277/tenor.gif" width="30px"> Future game developer.
  
  #### More informations about Alura:
  <a href="https://alura.com.br">Alura</a>
  
- ## Skills :nerd_face:
+ ## Skills <img src="https://media.tenor.com/images/80427dacea8c70ab7a55fbea7fffe962/tenor.gif" width="30px">
  <p style="display: inline_block" align="center"><br>
   <img alt="Bernardo-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,7 +32,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
  
- ## Contact :iphone:
+ ## Contact <img src="https://media.tenor.com/images/e462e4e7126c519f54bd0ef8da1123bc/tenor.gif" width="30px">
  <p align="center" style="display: inline_block"> 
   <a href="https://instagram.com/bernardokowalsky_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
