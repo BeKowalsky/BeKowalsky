@@ -8,7 +8,7 @@
  
  ## About me:
  ### Abstract
- - 👨🏻‍💻 Computer Scientist student, first period.
+ - 👨🏻‍💻 Computer Science student, first period.
  - 🇧🇷 Brazilian student.
  - 🖥 Front-end developer, formed by Alura.
  - 🎮 Future game developer.
