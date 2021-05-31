@@ -41,6 +41,6 @@
   <a href="https://www.linkedin.com/in/bekowa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </p>
 
-##
+##Snake Commits
 
 ![Snake animation](https://github.com/BeKowalsky/BeKowalsky/blob/output/github-contribution-grid-snake.svg)
