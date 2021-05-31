@@ -33,7 +33,7 @@
  </p>
  
  ## Contact :iphone:
- <p align="center"> 
+ <p align="center" style="display: inline_block"> 
   <a href="https://instagram.com/bernardokowalsky_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href = "mailto:kwybernardo@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&" target="_blank"></a>
