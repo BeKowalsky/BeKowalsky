@@ -1,4 +1,4 @@
- ## Hello! My name is Bernardo Magueta Kowalsky <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+ ## Hello, World! My name is Bernardo Magueta Kowalsky <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
  
  <p align="center">
   <a href="https://github.com/BeKowalsky">
