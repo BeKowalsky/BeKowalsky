@@ -1,4 +1,4 @@
-## Olá! Eu sou o Bernardo Magueta Kowalsky
+## Olá! Meu nome é Bernardo Magueta Kowalsky
  <div>
   <a href="https://github.com/BeKowalsky">
   <img align="center" height="168em" src="https://github-readme-stats.vercel.app/api?username=BeKowalsky&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
