@@ -12,6 +12,9 @@
  - 🖥 Front-end developer, formed by Alura.
  - 🎮 Future game developer.
  
+ #### More informations about Alura:
+ <a href="https://alura.com.br">Alura</a>
+ 
  ## Skills :nerd_face:
  <p style="display: inline_block" align="center"><br>
   <img alt="Bernardo-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
