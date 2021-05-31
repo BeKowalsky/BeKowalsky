@@ -8,10 +8,10 @@
  
  ## About me:
  ### Abstract
- - <img src="https://media.tenor.com/images/c288a717b358c17126501813dbfbd6b8/tenor.gif" width="30px"> Computer Science student, first period.
- - <img src="https://media.tenor.com/images/5cea43f6f9398dd4df2ac7147b231909/tenor.gif" width="30px"> Brazilian student.
- - <img src="https://media.tenor.com/images/a4235f990fad6992575db4e6ea4b5571/tenor.gif" width="30px"> Front-end developer, formed by Alura.
- - <img src="https://media.tenor.com/images/6859997a55fc20d294a11bc83feb4277/tenor.gif" width="30px"> Future game developer.
+ - <img src="https://media.tenor.com/images/c288a717b358c17126501813dbfbd6b8/tenor.gif" width="50px"> Computer Science student, first period.
+ - <img src="https://media.tenor.com/images/5cea43f6f9398dd4df2ac7147b231909/tenor.gif" width="50px"> Brazilian student.
+ - <img src="https://media.tenor.com/images/a4235f990fad6992575db4e6ea4b5571/tenor.gif" width="50px"> Front-end developer, formed by Alura.
+ - <img src="https://media.tenor.com/images/6859997a55fc20d294a11bc83feb4277/tenor.gif" width="50px"> Future game developer.
  
  #### More informations about Alura:
  <a href="https://alura.com.br">Alura</a>
