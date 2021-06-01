@@ -10,7 +10,7 @@
  ### Abstract
  - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/working.gif" width="50px"> Computer Science student, first period.
  - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/brazilflag.gif" width="50px"> Brazilian student.
- - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/frontend.gif" width="50px"> Front-end developer, formed by Alura.
+ - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/frontend.gif" width="50px"> Front-end developer, graduated by Alura.
  - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/gamecontrol.gif" width="50px"> Future game developer.
  
  
