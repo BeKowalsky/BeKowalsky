@@ -14,7 +14,7 @@
  - <img src="https://media.tenor.com/images/6859997a55fc20d294a11bc83feb4277/tenor.gif" width="50px"> Future game developer.
  
  
- ### More informations about Alura:
+ #### More informations about Alura:
  <a href="https://alura.com.br">Alura</a>
  
  ## Skills <img src="https://media.tenor.com/images/80427dacea8c70ab7a55fbea7fffe962/tenor.gif" width="30px">
