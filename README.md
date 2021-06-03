@@ -8,11 +8,11 @@
  
  ## About me:
  ### Abstract
- - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/CakeBirthday.gif" width="50px"> 20 years.
- - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/working.gif" width="50px"> Computer Science student, first period.
- - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/brazilflag.gif" width="50px"> Brazilian student.
- - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/frontend.gif" width="50px"> Front-end developer, graduated at Alura.
- - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/gamecontrol.gif" width="50px"> Future game developer.
+ - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/CakeBirthday.gif" width="45px"> 20 years.
+ - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/working.gif" width="45px"> Computer Science student, first period.
+ - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/brazilflag.gif" width="45px"> Brazilian student.
+ - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/frontend.gif" width="45px"> Front-end developer, graduated at Alura.
+ - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/gamecontrol.gif" width="45px"> Future game developer.
  
  
  #### More informations about Alura:
