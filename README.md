@@ -16,7 +16,7 @@
  
  
  #### More informations about Alura:
- <a href="https://alura.com.br" target="nofollow">Alura</a>
+ <a href="https://alura.com.br" rel="nofollow">Alura</a>
  
  ## Skills <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/nerdface.gif" width="30px">
  <p style="display: inline_block" align="center"><br>
