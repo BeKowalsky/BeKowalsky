@@ -12,7 +12,6 @@
  - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/working.gif" width="45px"> Computer Science student, first period.
  - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/brazilflag.gif" width="45px"> Brazilian student.
  - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/frontend.gif" width="45px"> Front-end developer, graduated at Alura.
- - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/gamecontrol.gif" width="45px"> Future game developer.
  
  
  #### More informations about Alura:
