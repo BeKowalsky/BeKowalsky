@@ -12,10 +12,6 @@
  - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/brazilflag.gif" width="45px"> Brazilian.
  - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/frontend.gif" width="45px"> Front-end developer.
  
- 
- #### More informations about Alura:
- <a href="https://alura.com.br" rel="nofollow">Alura</a>
- 
  ## Skills <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/nerdface.gif" width="30px">
  <p style="display: inline_block" align="center"><br>
   <img alt="Bernardo-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
