@@ -8,8 +8,7 @@
  
  ## About me:
  ### Abstract
- - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/CakeBirthday.gif" width="45px"> 20 years.
- - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/working.gif" width="45px"> Computer Science student, first period.
+ - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/working.gif" width="45px"> Computer Science student.
  - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/brazilflag.gif" width="45px"> Brazilian student.
  - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/frontend.gif" width="45px"> Front-end developer, graduated at Alura.
  
