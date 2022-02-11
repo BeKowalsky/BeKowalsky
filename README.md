@@ -14,19 +14,19 @@
  
  ## Skills <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/nerdface.gif" width="30px">
  <p style="display: inline_block" align="center"><br>
-  <img alt="Bernardo-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <code><img alt="Bernardo-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Bernardo-Vue" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
+  <code><img alt="Bernardo-Vue" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg"></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Bernardo-HTML" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <code><img alt="Bernardo-HTML" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Bernardo-CSS" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <code><img alt="Bernardo-CSS" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Bernardo-GIT" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <code><img alt="Bernardo-GIT" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Bernardo-GITHUB" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <code><img alt="Bernardo-GITHUB" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Bernardo-FIGMA" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <code><img alt="Bernardo-FIGMA" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
  
