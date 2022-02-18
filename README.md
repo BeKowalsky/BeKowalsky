@@ -4,7 +4,7 @@
   <a href="https://github.com/BeKowalsky">
   <img align="center" height="168em" src="https://github-readme-stats.vercel.app/api?username=BeKowalsky&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img align="center" height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeKowalsky&layout=compact&langs_count=16&theme=merko"/>
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=BeKowalsky&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
+   <img align="center" height="168em" src="http://github-readme-streak-stats.herokuapp.com?user=BeKowalsky&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
  
  ## About me:
