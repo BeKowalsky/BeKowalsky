@@ -23,7 +23,9 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code><img alt="Bernardo-CSS" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code><img alt="Bernardo-PHP" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
+  <code><img alt="Bernardo-BOOTSTRAP" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <code><img alt="Bernardo-SASS" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code><img alt="Bernardo-PHP" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
