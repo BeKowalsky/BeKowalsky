@@ -11,7 +11,7 @@
  ### Abstract
  - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/working.gif" width="45px"> Computer Science student.
  - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/brazilflag.gif" width="45px"> Brazilian.
- - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/frontend.gif" width="45px"> Full-Stack developer.
+ - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/frontend.gif" width="45px"> Front-End developer.
  
  ## Skills <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/nerdface.gif" width="30px">
  <p style="display: inline_block" align="center"><br>
@@ -26,10 +26,6 @@
   <code><img alt="Bernardo-BOOTSTRAP" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code><img alt="Bernardo-SASS" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code><img alt="Bernardo-PHP" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code><img alt="Bernardo-PHP" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code><img alt="Bernardo-GIT" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
