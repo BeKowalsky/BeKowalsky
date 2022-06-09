@@ -1,4 +1,4 @@
- ## Hello, World! My name is Bernardo Magueta Kowalsky <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/Hi.gif" width="30px"><img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/world.gif" width="30px">
+ ## Hello, World! My name is Bernardo Magueta Kowalsky 
  
  <p align="center">
   <a href="https://github.com/BeKowalsky">
@@ -9,11 +9,11 @@
  
  ## About me:
  ### Abstract
- - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/working.gif" width="45px"> Computer Science student.
- - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/brazilflag.gif" width="45px"> Brazilian.
- - <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/frontend.gif" width="45px"> Front-End developer.
+ - Computer Science student.
+ - Brazilian.
+ - Front-End developer.
  
- ## Skills <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/nerdface.gif" width="30px">
+ ## Skills
  <p style="display: inline_block" align="center"><br>
   <code><img alt="Bernardo-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,7 +35,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
  
- ## Contact <img src="https://github.com/BeKowalsky/BeKowalsky/blob/main/gifs/cellphone.gif" width="30px">
+ ## Contact
  <p align="center" style="display: inline_block"> 
   <a href="https://instagram.com/bernardokowalsky_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
